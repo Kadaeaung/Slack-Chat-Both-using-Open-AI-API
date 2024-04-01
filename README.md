@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # OpenAI API integration with SlackBot
 ## Usage
 1. Create your own `.env` based on `.env.sample` . The following keys must be configured:
@@ -98,3 +99,7 @@ After deleting the wrong tailwind integrity checksum, the generated HTML actuall
 
 ## Disclaimer
 This is a personal project for fun and is not affiliated with OpenAI or Slack in any way.
+=======
+# Slack-Chat-Both-using-Open-AI-API
+>>>>>>> 67967cfc0b48e6eedb2e91b3e3f832a70a584f03
+end
